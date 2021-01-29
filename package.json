@@ -38,7 +38,7 @@
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "@typescript-eslint/experimental-utils": "^3.10.1"
+    "@kvganesan/experimental-utils": "4.14.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
